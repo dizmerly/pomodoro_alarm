@@ -2,7 +2,7 @@ import PySimpleGUI as sg
 import time
 import winsound
 
-
+# blah blah blah
 
 duration = 500  # milliseconds
 freq = 100  # Hz

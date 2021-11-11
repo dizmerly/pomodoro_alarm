@@ -1,3 +1,2 @@
-### This is my first repo
+### Studyware program
 
-### Chapter II

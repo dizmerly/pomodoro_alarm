@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 import time
-import winsound
+
 
 # experimetn
 
@@ -78,7 +78,7 @@ def main():
             value -= 1
             if value == -1:
                 active = not active
-                winsound.Beep(freq, duration)
+             
 
     window.refresh()
 

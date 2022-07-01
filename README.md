@@ -1,6 +1,2 @@
 ### Studyware program
-
-~~~
-
-Extra cool
-~~~
+This
